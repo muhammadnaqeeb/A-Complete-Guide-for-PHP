@@ -403,7 +403,7 @@ Make a basic form
 # Form with database
 Create a database and a table in it in phpmyadmin
 
-![](Aspose.Words.14d62bd9-5c36-4887-b158-5e78418f3963.002.png)
+![](https://github.com/muhammadnaqeeb/A-Complete-Guide-for-PHP/blob/main/images/002.png)
 
 Create a form in html file
 ```
